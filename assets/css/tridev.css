@@ -1,8 +1,4 @@
-@font-face {
-    font-family: 'Gotham';
-    font-style: bold;
-    src: url('/fonts/Gotham/GothamBold_Regular.otf');
-}
+
 
 :root {
     --black: #0F0F0F;
