@@ -102,60 +102,45 @@
 			],
 			"palette": [
 				{
-					"color": "#f9f9f9",
+					"color": "#EFEFEF",
 					"name": "Base",
 					"slug": "base"
 				},
 				{
-					"color": "#ffffff",
+					"color": "#989898",
 					"name": "Base / Two",
 					"slug": "base-2"
 				},
 				{
-					"color": "#111111",
+					"color": "#0F0F0F",
 					"name": "Contrast",
 					"slug": "contrast"
 				},
 				{
-					"color": "#636363",
+					"color": "#17171A",
 					"name": "Contrast / Two",
 					"slug": "contrast-2"
 				},
 				{
-					"color": "#A4A4A4",
+					"color": "#262626",
 					"name": "Contrast / Three",
 					"slug": "contrast-3"
 				},
 				{
-					"color": "#cfcabe",
+					"color": "#EEBE41",
 					"name": "Accent",
 					"slug": "accent"
 				},
 				{
-					"color": "#c2a990",
+					"color": "#D9A316",
 					"name": "Accent / Two",
 					"slug": "accent-2"
-				},
-				{
-					"color": "#d8613c",
-					"name": "Accent / Three",
-					"slug": "accent-3"
-				},
-				{
-					"color": "#b1c5a4",
-					"name": "Accent / Four",
-					"slug": "accent-4"
-				},
-				{
-					"color": "#b5bdbc",
-					"name": "Accent / Five",
-					"slug": "accent-5"
 				}
 			]
 		},
 		"layout": {
-			"contentSize": "620px",
-			"wideSize": "1280px"
+			"contentSize": "1400px",
+			"wideSize": "1600px"
 		},
 		"spacing": {
 			"spacingScale": {
